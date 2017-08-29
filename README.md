@@ -2,8 +2,6 @@
 
 A online markdown converter specially for Wechat Public formatting.
 
-- Online Address: <http://md.barretlee.com/>
-- Issue & Suggestion: <https://github.com/barretlee/online-markdown/issues/new>
 
 ### Changelog
 
